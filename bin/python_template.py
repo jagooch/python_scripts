@@ -1,12 +1,8 @@
 #Template for Python Scripts
-import os
-import sys
 import argparse
-import ConfigParser
-import re
 import logging
-import asys
-import traceback 
+import sys
+import traceback
 
 global logger
 logging.basicConfig()

@@ -1,10 +1,8 @@
-import os
-import shutil 
-import sys
-import logging
 import argparse
+import logging
+import os
+import sys
 import traceback
-
 
 global logger
 logging.basicConfig()
