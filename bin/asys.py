@@ -8,7 +8,6 @@ import re
 import subprocess
 import sys
 import time
-import time
 import traceback
 
 global logger
